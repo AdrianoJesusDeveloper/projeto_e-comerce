@@ -1,0 +1,10 @@
+Por isso, as URLs válidas atualmente são:
+
+http://127.0.0.1:8000/admin/ → painel admin do Django
+
+http://127.0.0.1:8000/api/ → suas rotas da API, se estiverem definidas em store/urls.py
+
+http://127.0.0.1:8000/api/token/ → para obter o token JWT
+
+http://127.0.0.1:8000/api/token/refresh/ → para renovar o token
+
